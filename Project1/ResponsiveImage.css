@@ -1,0 +1,5 @@
+.responsive-image {
+    width: 10%; /* Image width set to 50% of the window width */
+    height: auto; /* Height will adjust automatically to maintain aspect ratio */
+    max-width: 10%; /* Ensures the image doesn't exceed the window width */
+}
