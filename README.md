@@ -1,2 +1,0 @@
-# ODINPROJ
-### Hamish is Great
